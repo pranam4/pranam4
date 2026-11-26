@@ -1,4 +1,4 @@
-#  Hey, I'm Pranam 🪐
+#  Hey, I'm Pranam 👨‍💻
 
 <div align="center">
 
