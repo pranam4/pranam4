@@ -63,8 +63,6 @@ I enjoy turning ideas into functional projects, exploring new tools and continuo
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranam4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/><br/>
-<br/><br/>
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpranam4&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=2563EB" />
 
@@ -91,7 +89,7 @@ I enjoy turning ideas into functional projects, exploring new tools and continuo
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranam4&theme=tokyonight" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranam4&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranam4&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranam4&theme=tokyonight&utcOffset=5.5" />
 
