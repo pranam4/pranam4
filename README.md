@@ -1,155 +1,194 @@
-# 👋 Hey, I'm Pranam
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PRANAM | GITHUB                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=PRANAM&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=220&section=header&text=PRANAM&fontSize=75&fontColor=60A5FA&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descColor=CBD5E1&descAlignY=65&animation=fadeIn" width="100%"/>
 
-### `Developer` • `Problem Solver` • `Tech Enthusiast`
+# Hello, I'm Pranam 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring.;Turning+ideas+into+real-world+projects.;Exploring+AI%2C+ML+%26+Full+Stack+Development.;Always+curious.+Always+building." alt="Typing SVG"/>
+### Computer Science Engineering Student | Aspiring Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Software+Systems;Developing+Full+Stack+Applications;Learning+Data+Structures+%26+Algorithms;Turning+Concepts+Into+Working+Projects" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-pranam4-181717?style=for-the-badge&logo=github)](https://github.com/pranam4)
+[![GitHub](https://img.shields.io/badge/GitHub-pranam4-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranam4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pranam%20pc)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranam__04)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranam1942@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranam1942@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=pranam4&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=pranam4&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 01 / ABOUT ME
 
-I'm a developer passionate about technology, innovation and building things that solve real-world problems.
+I'm a **Computer Science Engineering student at RNS Institute of Technology, Bengaluru**, with a strong interest in Artificial Intelligence, Machine Learning and Software Development.
 
-- 🔭 Currently building **[AgroTwin](https://github.com/pranam4/AgroTwin)**.
-- 🌱 Currently learning **DSA, Full Stack Development, AI & ML**.
-- 👯 Exploring AI-powered systems through **[TARS](https://github.com/pranam4/TARS)**.
-- 🤝 Interested in open-source contributions and collaborative projects.
-- 💡 Interested in software engineering, intelligent systems and emerging technologies.
-- 📫 Reach me at **pranam1942@gmail.com**.
-- ⚡ Fun fact: I turn coffee, curiosity and code into projects.
+I enjoy exploring how emerging technologies work and translating technical concepts into practical, real-world applications.
+
+My development journey revolves around building intelligent systems, understanding software architecture, experimenting with new technologies and continuously strengthening my programming fundamentals.
+
+- 🎓 **Education:** Computer Science & Engineering — RNSIT, Bengaluru
+- 🧠 **Technical Interests:** Artificial Intelligence, Machine Learning, Full Stack Development
+- 💻 **Currently Learning:** Data Structures & Algorithms, Advanced Python and Full Stack Development
+- 🔬 **Exploring:** AI Agents, Computer Vision, Intelligent Automation and Data-driven Systems
+- 🏗️ **Currently Building:** AgroTwin and TARS
+- 🌏 **Based in:** India
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 02 / AREAS OF INTEREST
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
-
-### Databases & Data Science
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
-
-### Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,blender&theme=dark" />
+| DOMAIN | FOCUS |
+|:---|:---|
+| Artificial Intelligence | Intelligent systems and AI applications |
+| Machine Learning | Predictive modelling and data-driven learning |
+| Software Engineering | Application architecture and development |
+| Full Stack Development | Frontend, backend and database integration |
+| Computer Vision | Visual intelligence and image processing |
+| Data Structures & Algorithms | Programming fundamentals and problem solving |
 
 </div>
 
 ---
 
-## 💻 Featured Projects
+## 03 / SELECTED PROJECTS
+
+### 🌱 AgroTwin — Agricultural Digital Twin
+
+An intelligent agricultural platform focused on digital twin simulation, crop modelling, yield prediction and data-driven agricultural insights.
+
+**Technical focus:** Python · FastAPI · React · PostgreSQL · PostGIS · XGBoost · PyTorch
+
+[![Explore AgroTwin](https://img.shields.io/badge/EXPLORE-AGROTWIN-16A34A?style=for-the-badge&logo=github)](https://github.com/pranam4/AgroTwin)
+
+### 🤖 TARS — Computer-Use AI
+
+An AI agent project focused on enabling intelligent systems to understand visual interfaces, interact with applications and execute multi-step computer workflows.
+
+**Technical focus:** AI Agents · Computer Vision · Browser Automation · Playwright · Tool Calling
+
+[![Explore TARS](https://img.shields.io/badge/EXPLORE-TARS-2563EB?style=for-the-badge&logo=github)](https://github.com/pranam4/TARS)
 
 <div align="center">
 
 <a href="https://github.com/pranam4/AgroTwin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranam4&repo=AgroTwin&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranam4&repo=AgroTwin&theme=tokyonight&hide_border=true" width="49%" />
 </a>
-
 <a href="https://github.com/pranam4/TARS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranam4&repo=TARS&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranam4&repo=TARS&theme=tokyonight&hide_border=true" width="49%" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 04 / TECHNOLOGY STACK
+
+Technologies and tools I work with and continue to explore.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranam4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" />
+
+**FRONTEND DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mysql,mongodb&theme=dark" />
+
+**AI / ML & DATA**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,androidstudio&theme=dark" />
+
+</div>
+
+---
+
+## 05 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranam4&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&include_all_commits=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranam4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.demolab.com?user=pranam4&theme=tokyonight&hide_border=true&mode=weekly" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpranam4&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=2563EB" />
+<img width="70%" src="https://github-readme-streak-stats.demolab.com?user=pranam4&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranam4&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranam4&bg_color=0B1020&color=60A5FA&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=Development%20Activity" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranam4&theme=tokyonight" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 07 / GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pranam4&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=pranam4&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 GitHub Profile Summary
+## 08 / BEYOND THE CODE
 
-<div align="center">
+Outside of writing code, I enjoy exploring new technologies, learning how things work, discovering innovative ideas and collaborating on projects.
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranam4&theme=tokyonight" />
+I'm particularly interested in the intersection of AI, software engineering and emerging technology.
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranam4&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranam4&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranam4&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranam4&theme=tokyonight&utcOffset=5.5" />
-
-</div>
+**Currently focused on becoming a better engineer, one project at a time.**
 
 ---
 
-## 🌐 Let's Connect
+## 09 / CONNECT WITH ME
 
 <div align="center">
 
-**Open to collaboration, innovative ideas and exciting projects.**
+Interested in collaborating, discussing technology or building something meaningful?
+
+<a href="mailto:pranam1942@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/pranam%20pc">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 <a href="https://github.com/pranam4">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:pranam1942@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br/><br/>
 
-### 💭 "Dream. Build. Break. Learn. Repeat."
+### "The future belongs to those who build it."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:1D4ED8,100:7C3AED&height=120&section=footer" width="100%" />
 
 </div>
