@@ -58,23 +58,6 @@ I enjoy turning ideas into functional projects, exploring new tools and continuo
 
 </div>
 
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/pranam4/AgroTwin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranam4&repo=AgroTwin&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/pranam4/TARS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranam4&repo=TARS&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## 📊 GitHub Statistics
 
@@ -105,17 +88,6 @@ I enjoy turning ideas into functional projects, exploring new tools and continuo
 </div>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pranam4&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
 ## 🎯 GitHub Profile Summary
 
 <div align="center">
