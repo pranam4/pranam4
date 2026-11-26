@@ -1,12 +1,10 @@
-#  Hey, I'm Pranam
+#  Hey, I'm Pranam 💻
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=PRANAM&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### CSE Student • Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring.;Turning+ideas+into+real-world+projects.;Exploring+AI%2C+ML+%26+Full+Stack+Development.;Always+curious.+Always+building." alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=CSE+(AI%26ML)+Student+%7C+Software+Developer;Learning.+Building.+Exploring.;Turning+Ideas+Into+Reality;Exploring+AI%2C+ML+%26+Full+Stack+Development." alt="Typing SVG"/> 
 
 <br/>
 
@@ -62,8 +60,6 @@ I enjoy turning ideas into functional projects, exploring new tools and continuo
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranam4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranam4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
