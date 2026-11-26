@@ -100,7 +100,7 @@ I enjoy turning ideas into functional projects, exploring new tools and continuo
 <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/> <br/>
 
 ### 💭 "Dream. Build. Break. Learn. Repeat."
 
